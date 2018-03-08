@@ -5,3 +5,9 @@ Three different approaches will be undertaken here.
 1. Train a CNN from scratch.
 2. Use transfer learning(VGG16, Inception etc.)
 3. Repeat steps 1 and 2 with data augmentation.
+
+The dataset contains 4242 images of flowers. 
+The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion. 
+The data collection is based on the data flickr, google images, yandex images. 
+You can use this datastet to recognize plants from the photo.
+Link to the dataset: https://www.kaggle.com/aakashnain/flowers-are-mesmerizing/data
