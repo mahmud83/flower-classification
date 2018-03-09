@@ -10,4 +10,20 @@ The dataset contains 4242 images of flowers.
 The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion. 
 The data collection is based on the data flickr, google images, yandex images. 
 You can use this datastet to recognize plants from the photo.
-Link to the dataset: https://www.kaggle.com/aakashnain/flowers-are-mesmerizing/data
+The dataset was taken from kaggle.
+
+The data directory structure is: 
+
+dataset/test/rose
+
+dataset/test/tulip
+
+.
+
+.
+
+.
+
+dataset/train/rose
+
+etc.
